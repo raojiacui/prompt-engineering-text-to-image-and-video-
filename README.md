@@ -118,11 +118,4 @@ Parameters:
 
 ---
 
-## 📚 相关项目
-
-- [nano-video](https://github.com/raojiacui/nano-video) - AI 视频生成 SaaS 平台
-- [remotion-video-edit](https://github.com/raojiacui/remotion-video-edit) - Remotion 视频编辑项目
-
----
-
 > 本仓库仅供学习交流，提示词灵感来源于各大平台热门 AI 视频创作。
